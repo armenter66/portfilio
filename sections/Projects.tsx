@@ -42,9 +42,9 @@ function ProjectCard({
 				className={`relative h-40 bg-gradient-to-br ${gradient} overflow-hidden`}
 			>
 				{/* <div className="absolute inset-0 flex items-center justify-center">
-          <div className="text-6xl opacity-10 font-display font-bold text-white">
+        <div className="text-6xl opacity-10 font-display font-bold text-white">
             {project.title.charAt(0)}
-          </div>
+        </div>
         </div> */}
 				<div className='relative h-40 overflow-hidden'>
 					<Image
